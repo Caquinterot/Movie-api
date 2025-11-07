@@ -35,4 +35,5 @@ Thumbs.db
 
 # Sequelize (si generas seeds/migrations compiladas)
 .sequelize/
-.vercel.json
+
+vercel.json
